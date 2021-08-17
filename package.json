@@ -1,0 +1,16 @@
+{
+  "name": "jsproject1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uniqid": "^5.3.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
